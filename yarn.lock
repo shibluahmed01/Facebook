@@ -903,10 +903,10 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     "to-fast-properties" "^2.0.0"
 
-"@cometchat-pro/chat@^2.3.0":
-  "integrity" "sha512-jXvfsUkv69wnnOk53HeoBO1JECPCzxPrK9Hs9cJfrjhEJscWjKy4PyYb0VmD4o+olxZk81enLbCB5dseYtkosw=="
-  "resolved" "https://registry.npmjs.org/@cometchat-pro/chat/-/chat-2.3.0.tgz"
-  "version" "2.3.0"
+"@cometchat-pro/chat@^2.4.1":
+  "integrity" "sha512-oATsQErIzWjUu/iv/s6KFRjCbSmU98fkct3orWKG5cOeJcoz2Vkl6cxc/dvAaip5Vp+QQneYok50XboZCE+4iw=="
+  "resolved" "https://registry.npmjs.org/@cometchat-pro/chat/-/chat-2.4.1.tgz"
+  "version" "2.4.1"
 
 "@firebase/analytics-types@0.4.0":
   "integrity" "sha512-Jj2xW+8+8XPfWGkv9HPv/uR+Qrmq37NPYT352wf7MvE9LrstpLVmFg3LqG6MCRr5miLAom5sen2gZ+iOhVDeRA=="

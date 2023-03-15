@@ -53,7 +53,7 @@
 <script>
 import { ref, onMounted } from "vue";
 import { CometChat } from "@cometchat-pro/chat";
-import { cometChatConfig } from "../app.config";
+import { cometChatConfig } from "@cometchat-pro/chat";
 export default {
   setup() {
     const user = ref(null);
@@ -103,5 +103,4 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
